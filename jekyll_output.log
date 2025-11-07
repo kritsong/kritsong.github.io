@@ -4,3 +4,15 @@ Configuration file: /app/_config.yml
  Incremental build: disabled. Enable with --incremental
       Generating... 
        Jekyll Feed: Generating feed for posts
+                    done in 0.534 seconds.
+ Auto-regeneration: enabled for '/app'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2025-11-07 11:53:48
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.13974135 seconds.
+
+      Regenerating: 1 file(s) changed at 2025-11-07 11:53:48
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for posts

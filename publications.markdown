@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 
 <h1 id="publications">Publications</h1>
+
+For a full, up-to-date list of publications, please see my <a href="https://scholar.google.com/citations?user=sctbTUQAAAAJ&hl=en">Google Scholar profile</a>.
+
 <table>
 <tbody>
 <tr class="odd">
@@ -133,11 +136,6 @@ European Conference on Computer Vision, 2022.</td>
 <td style="text-align: right;"></td>
 <td style="text-align: left;"></td>
 </tr>
-</tbody>
-</table>
-<h1 id="publications-1">Publications</h1>
-<table>
-<tbody>
 <tr class="odd">
 <td style="text-align: right;"><span class="smallcaps">Oct
 2022</span></td>
