@@ -4,106 +4,31 @@ title: Tutoring
 permalink: /tutoring/
 ---
 
-<h1 id="teaching-and-academic-experiences">Teaching and Academic Experiences</h1>
-<table>
-<tbody>
-<tr class="odd">
-<td style="text-align: right;"><span
-class="smallcaps">Present</span></td>
-<td style="text-align: left;"><strong>Computing Lecturer at Nakhon Si
-Thammarat Rajabhat University.</strong></td>
-</tr>
-<tr class="even">
-<td style="text-align: right;"></td>
-<td style="text-align: left;"><span>Teach Machine Learning and Deep
-Learning to third-year students. My research focuses on applying Machine
-Learning to the broader datasets, utilizing statistical priors
-associated with each dataset.</span></td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;"></td>
-<td style="text-align: left;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: right;"><span
-class="smallcaps">Present</span></td>
-<td style="text-align: left;"><strong>Guest Lecturer at Walailak
-University.</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;"></td>
-<td style="text-align: left;"><span>Teach Artificial Intelligence for
-Living and Working in Science and Technologies/Humanities and Social
-Sciences to undergrad students.</span></td>
-</tr>
-<tr class="even">
-<td style="text-align: right;"></td>
-<td style="text-align: left;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;"><span
-class="smallcaps">Present</span></td>
-<td style="text-align: left;"><strong>Voluntary Academic
-Reviewer</strong></td>
-</tr>
-<tr class="even">
-<td style="text-align: right;"></td>
-<td style="text-align: left;"><span>Give constructive feedback on
-manuscripts in my field of expertise for journals and conferences such
-as IEEE Transactions on Image Processing (TIPS), IEEE Transactions on
-Information Forensics (TIFS) &amp; Security, Health Challenge Thailand
-conference (HCT), and Samaggi Academic Conference.</span></td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;"></td>
-<td style="text-align: left;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: right;"><span
-class="smallcaps">Present</span></td>
-<td style="text-align: left;"><strong>Private Tutor
-(Self-employed).</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;"></td>
-<td style="text-align: left;"><span>Teach and give consultation to
-students in Mathematics, Physics, and Computer Science with online
-platforms such as www.superprof.co.uk and www.spires.co</span></td>
-</tr>
-<tr class="even">
-<td style="text-align: right;"></td>
-<td style="text-align: left;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;"><span
-class="smallcaps">Present</span></td>
-<td style="text-align: left;"><strong>Machine Learning Consultant
-(Self-employed).</strong></td>
-</tr>
-<tr class="even">
-<td style="text-align: right;"></td>
-<td style="text-align: left;"><span>Provided consultant services on Big
-Data and Machine Learning. Previous projects included predicting cell
-age from genes, classifying Thai food and nutrition from an image, face
-identification from a security camera, drone imagery, and network threat
-detection, etc.</span></td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;"></td>
-<td style="text-align: left;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: right;"><span class="smallcaps">Oct
-2019</span></td>
-<td style="text-align: left;"><strong>Teaching Assistant at <span
-class="smallcaps">Imperial College London</span>.</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;"></td>
-<td style="text-align: left;"><span>Provided tutorials to students on
-Logic, AI Programming, Machine Learning, and Advance Statistical Machine
-Learning which involved conducting tutorials, marking their exercises,
-and giving constructive feedbacks.</span></td>
-</tr>
-</tbody>
-</table>
+<h1 id="tutoring-services">Private Tutoring Services</h1>
+
+<p>With over a decade of experience in academia and industry, I offer private tutoring services for students seeking to excel in Computer Science, Mathematics, and Physics. My goal is to provide personalized, high-quality education that empowers students to achieve their academic and professional goals.</p>
+
+<p>I hold a Ph.D. in Computing Research from <strong>Imperial College London</strong> and have extensive experience as a lecturer and researcher. My tutoring approach is tailored to each student's unique learning style, ensuring a deep understanding of the material.</p>
+
+<h2>Subjects Offered</h2>
+<ul>
+  <li><strong>Computer Science:</strong> Algorithms, Data Structures, Machine Learning, Deep Learning, AI Programming, and more.</li>
+  <li><strong>Mathematics:</strong> Calculus, Linear Algebra, Statistics, and other advanced topics.</li>
+  <li><strong>Physics:</strong> Mechanics, Electromagnetism, and other fundamental concepts.</li>
+</ul>
+
+<h2>Why Choose Me?</h2>
+<ul>
+  <li><strong>Expert Knowledge:</strong> Ph.D. from a world-leading university and extensive experience in the field.</li>
+  <li><strong>Personalized Approach:</strong> Tutoring sessions are tailored to your individual needs and learning style.</li>
+  <li><strong>Proven Track Record:</strong> Numerous positive reviews from past students.</li>
+  <li><strong>Flexible Scheduling:</strong> Online tutoring sessions available to fit your schedule.</li>
+</ul>
+
+<h2>Testimonials</h2>
+<blockquote>
+  <p>"Kritaphat is an excellent tutor - is extremely knowledgeable and is a great communicator who explains well. Furthermore, Dr. Kritaphat is strong in all areas related to machine learning, most importantly mathematics and programming. I strongly recommend anyone looking to learn anything related."</p>
+</blockquote>
+
+<h2>Get in Touch</h2>
+<p>I am available for online tutoring sessions. For more information and to book a session, please visit my profile on <a href="https://www.superprof.co.uk/experienced-computer-science-asst-professor-with-from-imperial-college-london-and-over-twelve-years-success-the-field.html">Superprof</a> or contact me directly at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.</p>
